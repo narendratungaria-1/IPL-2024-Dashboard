@@ -45,3 +45,5 @@ If GUI-based: developed using Tkinter or PyQt.
 
 If hosted: deployed on Streamlit Cloud, Heroku, or GitHub Pages (if static).
 
+## dashboard
+![iplbatsdashboard](https://github.com/user-attachments/assets/a1677acf-5756-434e-a34b-5e0536657e5a)
