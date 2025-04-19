@@ -1,11 +1,11 @@
-#🎯 Objective
+🎯 Objective
 To create an interactive and visually appealing dashboard that captures key statistics of IPL 2024.
 
 To analyze match-by-match data, player performance, team comparison, and trends over the season.
 
 To showcase data visualization and dashboard development skills using modern tools and libraries.
 
-##✅ Features
+✅ Features
 🏏 Live score updates (if integrated with API)
 
 📊 Team-wise and player-wise performance analysis
